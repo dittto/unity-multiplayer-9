@@ -1,4 +1,4 @@
-// UI/Level/LevelCompleteUI
+// UI/Level/LevelCompleteUI.cs
 
 using GameState;
 using Player.SyncedData;

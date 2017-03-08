@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿// UI/Level/ScoreboardEntryUI.cs
+
+using UnityEngine;
 using UnityEngine.UI;
 
 namespace UI.Level {
