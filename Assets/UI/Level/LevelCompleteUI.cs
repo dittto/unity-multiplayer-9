@@ -22,8 +22,7 @@ namespace UI.Level {
         public GameObject levelComplete;
         public GameObject clientLevelComplete;
         public GameObject serverLevelComplete;
-
-        public GameObject scoreboard;
+        
         public GameObject scoreboardViewport;
         public GameObject scoreboardEntryPrefab;
 
